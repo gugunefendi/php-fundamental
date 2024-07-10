@@ -7,6 +7,7 @@ Welcome to the **PHP Fundamentals** repository! This repository is designed to h
 1. [Basic PHP Syntax](#basic-php-syntax)
 2. [Variables, Variable Scope, and Quiz](#variables-and-variable-scope)
 3. [Constants](#constants)
+3. [Operators Arithmetic](#operators-arithmetic)
 
 ## Development Environment Setup
 
